@@ -1,0 +1,43 @@
+body{
+  background-image: url("../img/fall-out-boy.jpg");
+
+}
+h1{
+  font-size: 40px;
+  text-align: center;
+  color: #4A0681;
+  font-weight: bolder;
+  font-family: monospace;
+}
+h2{
+
+  color: skyblue;
+  font-weight: bolder;
+  font-family: monospace;
+}
+h3{
+  font-style: italic;
+}
+p{
+  color:white;
+}
+.column{
+  width:50%;
+  float: left;
+}
+.sidebar {
+  width: 400px;
+  height: 650px;
+  float: right;
+  font-family: sans-serif;
+  background-color: #7B6787;
+  color: skyblue;
+}
+strong{
+  font-family: fantasy;
+  font-style: italic;
+}
+img{
+  width: 400px;
+  height: 250px;
+}
